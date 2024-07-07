@@ -58,7 +58,8 @@ export class Application {
       kGameIds.LeagueofLegends,
       kGameIds.TeamfightTactics,
       kGameIds.RocketLeague,
-      kGameIds.DiabloIV
+      kGameIds.DiabloIV,
+      Math.floor(223941/10) // Predecessor https://overwolf.github.io/api/games/ids#the-gamelistxml-file
     ]);
   }
 }

@@ -10,7 +10,6 @@
   "license": "MIT",
   "overwolf": {
     "packages": [
-      "gep",
       "overlay"
     ]
   },
